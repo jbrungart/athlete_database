@@ -74,7 +74,7 @@ To enhance database functionality and support common queries, we created a set o
 2. set_nickname: Update the nickname of a athlete in the information table.
 
 
-
+## Data Source
 We used a dataset compiled by Muhammad Ehsan, available on Kaggle at https://www.kaggle.com/datasets/muhammadehsan02/olympic-summer-games-paris-2024
 
 
