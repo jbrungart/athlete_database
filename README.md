@@ -2,7 +2,7 @@
 This SQL project is an Olympic Swimmer Database that stores and organizes information about swimmers who have competed in the Olympic Games. The database includes
 details such as personal information, country, and events participated in.
 
-#Project Overview
+## Project Overview
 The project's dataset describes several attributes of different Olympic swimmers that have participated in the Olympics at least once. The database we are building
 can be described as a compilation of Olympian swimmers’ personal data (i.e. full name, birth country, gender, languages spoken) and of their relay type (i.e. Men’s
 100m Breaststroke, Women’s 200m Freestyle). The objective of our database is to create a resource that contains personal and relay data solely on Olympic swimmers.
@@ -75,6 +75,6 @@ To enhance database functionality and support common queries, we created a set o
 
 
 
-
+We used a dataset compiled by Muhammad Ehsan, available on Kaggle at https://www.kaggle.com/datasets/muhammadehsan02/olympic-summer-games-paris-2024
 
 
